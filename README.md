@@ -6,7 +6,7 @@ source(¨https://raw.githubusercontent.com/cris2740/formulas-de-anualidades-venc
 ```
 Las funciones permiten calcular:
 
-#Valor Futuro de una anualidad vencida
-#Valor Actual de una anualidad vencida
-#Tasa del periodo
-#Número de pagos
+# Valor Futuro de una anualidad vencida
+# Valor Actual de una anualidad vencida
+# Tasa del periodo
+# Número de pagos
