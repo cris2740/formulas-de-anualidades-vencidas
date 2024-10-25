@@ -1,4 +1,4 @@
-Funciones de Anualidades Vencidas
+## Funciones de Anualidades Vencidas
 Este repositorio contiene funciones en R para el cálculo de anualidades vencidas, útiles en el ámbito de las matemáticas financieras.
 
 ```{r}
