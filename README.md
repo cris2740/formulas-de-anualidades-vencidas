@@ -15,16 +15,15 @@ $t$=7 Meses
 ```{r}
 # Valores de entrada
 anualidad = 1000
-tasaPeriodo = 0.02
-nPeriodos = 7
+tasa = 0.02
+n = 7
 
 # Cálculo del valor futuro
-valorFuturo = valor_futuro(anualidad = anualidad, tasa = tasaPeriodo, n = nPeriodos)
-print(valorFuturo)
-```
-
-valor_futuro <- function(anualidad, tasa, n) {
+valor_futuro <- function(VA=anualidad,r=tasa,t=n) {
   anualidad * (((1 + tasa) ^ n - 1) / tasa)
+print(valorFuturo)
+
+  ```
 
 # Valor Actual de una anualidad vencida
 # Tasa del periodo
